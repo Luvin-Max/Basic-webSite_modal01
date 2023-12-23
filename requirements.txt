@@ -1,5 +1,10 @@
 requirement:
        
         # Web Broswer
-        
+        @ Html5
+        @Css3
+        @bootStarp
         # Any type of codeEditer(html,css,js) compiler
+         @sublime txte Editer
+              or 
+          @vs Code's
